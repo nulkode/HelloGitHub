@@ -10,7 +10,7 @@ echo Generating commit diff...
 git add .
 
 echo Committing changes...
-git commit --date="%commitDate%T12:00:00" -m "Initial commit"
+git commit --date="%commitDate%T12:00:00" -m "Update CHANGELOG.md"
 
 echo Done.
 endlocal
